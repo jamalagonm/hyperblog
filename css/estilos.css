@@ -1,7 +1,21 @@
 body
 {
-    color: darkred;
-    text-align: center;
+    color: rgb(12, 11, 11);
+    text-align: left;
     font-family: sans-serif;
+    font-size: 16px;
+}
 
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(196, 192, 192);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
